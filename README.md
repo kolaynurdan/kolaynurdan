@@ -19,8 +19,8 @@
 
 ##### Contact with me 📝
 
-<a href="https://www.linkedin.com/in/nurdankolay/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-[![Mail](https://img.shields.io/badge/-`Hello!-black?style=for-the-badge&logo=gmail)](mailto:deepshikhayadav2000@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nurdankolay/)
+[![Mail](https://img.shields.io/badge/-`send%20email!-black?style=for-the-badge&logo=gmail)](mailto:kolaynurdan@gmail.com)
 
 <br />
 
