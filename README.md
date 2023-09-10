@@ -15,7 +15,7 @@
 
 ##### Contact with me 📝
 
-[<img align="left" alt="nurdankolay | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+<a href="https://www.linkedin.com/in/nurdankolay/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 <br />
 
