@@ -20,7 +20,7 @@
 ##### Contact with me 📝
 
 <a href="https://www.linkedin.com/in/nurdankolay/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:deepshikhayadav2000@gmail.com)
+[![Mail](https://img.shields.io/badge/-`Hello!-black?style=for-the-badge&logo=gmail)](mailto:deepshikhayadav2000@gmail.com)
 
 <br />
 
@@ -65,7 +65,7 @@
 
 ---
 
-### ⭐️ From [Nurdan](https://github.com/kolaynurdan) ### 
+##### ⭐️ From [Nurdan](https://github.com/kolaynurdan) #####
 
 ---
 
