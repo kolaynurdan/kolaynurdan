@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently working on system, monitoring and development technologies like DevOps, Python and Linux
 - 📚 I’m currently learning everything about DevOps, Linux and Monitoring technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to learn.
+- ⚡ Fun fact: I absolutely love reading books..
 
 ---
 
