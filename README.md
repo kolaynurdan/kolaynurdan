@@ -20,6 +20,7 @@
 ##### Contact with me 📝
 
 <a href="https://www.linkedin.com/in/nurdankolay/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="mailto:kolaynurdan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 <br />
 
