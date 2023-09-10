@@ -10,8 +10,12 @@
 - ⚡ Fun fact: I absolutely love reading books..
 
 ---
+##### ❤ Views and Followers
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kolaynurdan&repo=kolaynurdan&countColorcountColor&countColor=%237B1E7B"/>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=kolaynurdan">
+</a>
+<a href="https://github.com/kolaynurdan?tab=followers"><img src="https://img.shields.io/github/followers/kolaynurdan?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ##### Contact with me 📝
 
